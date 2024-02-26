@@ -1,4 +1,4 @@
-# do-LLM-dream-of-ontologies
+# Do LLM dream of ontologies?
 
 Repository containing code and dataset of the paper "Do LLM Dream Of Ontologies?" <br>
 
