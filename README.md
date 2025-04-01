@@ -37,3 +37,21 @@ This directory contains the code to reproduce the results of the Prompt Invarian
   - compute_accuracy_per_bucket.py: code to plot AvPI and Accuracy per buckets
   - evaluate_per_bucket.py: code to compute the prompt invariance
   - 1_same_prompt_output.txt, 2_different_temperatures_output.txt, 3_different_languages_output.txt and SAMPLES_n_RANDOM_ELEMENTS_PER_BUCKETS.txt are output files
+
+## Cite us!
+
+```bibtex
+@article{LLMs-Dreaming-ACM-TIST25,
+author = {Bombieri, Marco and Fiorini, Paolo and Ponzetto, Simone Paolo and Rospocher, Marco},
+title = {Do LLMs Dream of Ontologies?},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {2157-6904},
+url = {https://doi.org/10.1145/3725852},
+doi = {10.1145/3725852},
+note = {Just Accepted},
+journal = {ACM Trans. Intell. Syst. Technol.},
+month = mar,
+keywords = {Large Language Models, Memorization, Ontologies}
+}
