@@ -38,6 +38,8 @@ This directory contains the code to reproduce the results of the Prompt Invarian
   - evaluate_per_bucket.py: code to compute the prompt invariance
   - 1_same_prompt_output.txt, 2_different_temperatures_output.txt, 3_different_languages_output.txt and SAMPLES_n_RANDOM_ELEMENTS_PER_BUCKETS.txt are output files
 
+This work has been conducted within the [Digital Arena for Inclusive Humanities](https://daih.eu) of the University of Verona, Italy.
+
 ## Cite us!
 
 ```bibtex
